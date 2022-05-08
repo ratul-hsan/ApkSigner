@@ -1,5 +1,5 @@
 ## Description
-ApkSigner is a copy of [PseudoApkSigner](https://github.com/Aefyr/PseudoApkSigner). But it can cached default private key and rsa template file to sign apps if you don't provide one 
+ApkSigner is a clone of [PseudoApkSigner](https://github.com/Aefyr/PseudoApkSigner). But it can cached default private key and rsa template file to sign apps if you don't provide one 
 ## How it works
 It works same as [PseudoApkSigner](https://github.com/Aefyr/PseudoApkSigner). But this modified library can sign apps with stored bytes of private key file and template file if you don't provide any key or template file.
 ## Adding to Project
